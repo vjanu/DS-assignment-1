@@ -1,0 +1,13 @@
+2018-04-13 20:02:10.224:Sensor{location=Colombo, latestReading=Reading{temperature=33.5, rainfall=15.2, airpressure=18.14, humidity=83}}
+2018-04-13 20:05:36.465:Sensor{location=Galle, latestReading=Reading{temperature=32.5, rainfall=15.2, airpressure=19.14, humidity=77}}
+2018-04-13 22:12:09.434:Sensor{location=Colombo, latestReading=Reading{temperature=32.5, rainfall=15.2, airpressure=19.14, humidity=77}}
+2018-04-13 22:57:25.548:Sensor{location=fuck, latestReading=Reading{temperature=31.5, batteryLevel=9.5, co2Level=290.0, smokeLevel=1}}
+2018-04-13 23:07:11.747:Sensor{location=sliit, latestReading=Reading{temperature=31.5, batteryLevel=9.5, co2Level=310.0, smokeLevel=1}}
+2018-04-14 10:10:26.156:Sensor{location=4, latestReading=Reading{temperature=31.5, batteryLevel=9.5, co2Level=290.0, smokeLevel=1}}
+2018-04-14 10:15:26.154:Sensor{location=4, latestReading=Reading{temperature=30.0, batteryLevel=10.0, co2Level=300.0, smokeLevel=0}}
+2018-04-14 10:15:52.869:Sensor{location=6, latestReading=Reading{temperature=28.5, batteryLevel=9.5, co2Level=290.0, smokeLevel=3}}
+2018-04-14 12:54:38.29:Sensor{floor=1, latestReading=Reading{temperature=28.5, batteryLevel=10.5, co2Level=290.0, smokeLevel=1}}
+2018-04-14 13:51:03.573:Sensor{floor=44, latestReading=Reading{temperature=28.5, batteryLevel=9.5, co2Level=310.0, smokeLevel=1}}
+2018-04-14 13:54:47.493:Sensor{floor=23, latestReading=Reading{temperature=31.5, batteryLevel=9.5, co2Level=310.0, smokeLevel=1}}
+2018-04-14 14:13:31.046:Sensor{floor=33, latestReading=Reading{temperature=31.5, batteryLevel=10.5, co2Level=310.0, smokeLevel=3}}
+2018-04-14 14:15:42.119:Sensor{floor=67, latestReading=Reading{temperature=28.5, batteryLevel=10.5, co2Level=310.0, smokeLevel=3}}
